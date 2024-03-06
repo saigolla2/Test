@@ -1693,6 +1693,12 @@
             "expression": "TODAY()",
             "formatString": "General Date",
             "lineageTag": "62703d76-1517-4c16-8785-95d6b206b715"
+          },
+          {
+            "name": "Measure",
+            "expression": "1",
+            "formatString": "0",
+            "lineageTag": "e6109829-d64c-4c66-a3c9-657cb51b1204"
           }
         ],
         "partitions": [
