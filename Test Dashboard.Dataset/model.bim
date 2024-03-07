@@ -1709,6 +1709,12 @@
             "name": "Measure 3",
             "expression": "\"3\"",
             "lineageTag": "3ee46d44-7fbb-4b06-a248-9c5d26a0b3f7"
+          },
+          {
+            "name": "Measure 4",
+            "expression": "4",
+            "formatString": "0",
+            "lineageTag": "95f4772e-b260-4749-8946-ee72edbe4d55"
           }
         ],
         "partitions": [
