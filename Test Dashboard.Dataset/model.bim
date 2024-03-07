@@ -1715,6 +1715,12 @@
             "expression": "4",
             "formatString": "0",
             "lineageTag": "95f4772e-b260-4749-8946-ee72edbe4d55"
+          },
+          {
+            "name": "Measure 5",
+            "expression": "5",
+            "formatString": "0",
+            "lineageTag": "2ce136ba-81e2-4bc8-a05e-9cc0967c8e0d"
           }
         ],
         "partitions": [
