@@ -1699,6 +1699,11 @@
             "expression": "1",
             "formatString": "0",
             "lineageTag": "e6109829-d64c-4c66-a3c9-657cb51b1204"
+          },
+          {
+            "name": "Measure 2",
+            "expression": "\"2hjkjklklklk\"",
+            "lineageTag": "98f022ec-235a-48e9-8c50-b71d5cb898e6"
           }
         ],
         "partitions": [
